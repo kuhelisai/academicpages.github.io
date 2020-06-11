@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Kuheli Sai"
+  avatar           : "ksai.jpg"
+  bio              : "Computer Science Researcher"
+  location         : "Pittsburgh"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QwKfawMAAAAJ&view_op=list_works&gmla=AJsN-F4_erTNgDFq2V1D1bcS_dRcA_QsztObV6Y9qoyYZ6mKVjuZbRPCP1eZnIDn-_oOLSPwLwxEXSGrKBivAepWzKp8BHCnT5eEL6xtMn26CAMp92tVzSI"
+  email            : "kuheli.sai@pitt.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Kuheli_Sai3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/kuhelisai"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/kuhelisai"
   vine             :
   weibo            :
   xing             :
