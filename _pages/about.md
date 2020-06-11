@@ -17,3 +17,5 @@ I support diversity and inclusion initiatives in computing. In this regard, I ha
 I have been working and doing research on network traffic anomaly detection in the Scientific Computing Information Security Research Group at the United States Department of Energy (DoE) National Laboratory-Fermilab as 2020, and 2019 Computational Science Summer Research Intern.
 
 I am open to research internship opportunities for the Summer of 2021 where I would like to apply my acquired knowledge gained so far from Academic, Industry, Leadership, and Research experiences and contribute to the team to the best of my abilities. You can reach out to me via email at sai.kuheli@gmail.com with any advisement, opportunities, collaboration, and/or concerns. Thank you. 
+
+<p style="background-color:red;">This website is currently under construction. I try frequently to keep my LinkedIn profile up to date. Till this website is ready, for nearly up to date information, you may consider visiting my Linkedin profile at https://www.linkedin.com/in/kuhelisai/.</p>
