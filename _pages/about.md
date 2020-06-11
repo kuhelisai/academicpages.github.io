@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Kuheli Sai"
+title: "Kuheli Sai, Computer and Data Science Researcher"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
 Welcome to my homepage! I am Kuheli Sai, a Computer and Data Science Researcher. I am pursuing a Ph.D. from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). My research interest includes (i) Blockchain Security, (ii) IoT and Network Traffic Anomaly Detection, (iii) Healthcare Data Security, (iv) Critical Infrastructure Security, and (v) Applied ML. Prior to joining the Ph.D. program at Pitt, I have earned my Engineering Master's Degree (M.Tech. in Information Technology) from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, Engineering Bachelor's Degree (B.Tech. in Computer Science & Engineering) from West Bengal University of Technology (WBUT), Kolkata and also did a Software Engineering job at Cognizant Technology Solutions (CTS) Corp.
 
