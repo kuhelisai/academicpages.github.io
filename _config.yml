@@ -89,6 +89,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QwKfawMAAAAJ&view_op=list_works&gmla=AJsN-F4_erTNgDFq2V1D1bcS_dRcA_QsztObV6Y9qoyYZ6mKVjuZbRPCP1eZnIDn-_oOLSPwLwxEXSGrKBivAepWzKp8BHCnT5eEL6xtMn26CAMp92tVzSI"
   email            : "kuheli.sai@pitt.edu"
   researchgate     : "https://www.researchgate.net/profile/Kuheli_Sai3"
+  linkedin         : kuhelisai
+  github           : kuhelisai
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +98,13 @@ author:
   flickr           :
   facebook         : kuhelisai
   foursquare       :
-  github           : kuhelisai
+
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -113,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC8_SkIUrVVDGXg3il0fpENQ?view_as=subscriber"
   wikipedia        :
 
 
