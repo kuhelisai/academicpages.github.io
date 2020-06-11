@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kuheli Sai"
+title: "Kuheli Sai, Computer and Data Science Researcher"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
