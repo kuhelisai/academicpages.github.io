@@ -25,8 +25,8 @@ My research interest includes:
 Prior to joining the Ph.D. program at Pitt, I have earned my Engineering Master's Degree (M.Tech. in Information Technology) from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, Engineering Bachelor's Degree (B.Tech. in Computer Science & Engineering) from West Bengal University of Technology (WBUT), Kolkata and also did a Software Engineering job at Cognizant Technology Solutions (CTS) Corp.
 
 
-<!- I have been working and doing research on network traffic anomaly detection in the Scientific Computing Information Security Research Group at the United States Department of Energy (DoE) National Laboratory-Fermilab as 2020, and 2019 Computational Science Summer Research Intern.
+I have been working and doing research on network traffic anomaly detection in the Scientific Computing Information Security Research Group at the United States Department of Energy (DoE) National Laboratory-Fermilab as 2020, and 2019 Computational Science Summer Research Intern.
 
-I am open to research internship opportunities for the Summer of 2021 where I would like to apply my acquired knowledge gained so far from Academic, Industry, Leadership, and Research experiences and contribute to the team to the best of my abilities. You can reach out to me via email at sai.kuheli@gmail.com with any advisement, opportunities, collaboration, and/or concerns. Thank you. -->
+<!--I am open to research internship opportunities for the Summer of 2021 where I would like to apply my acquired knowledge gained so far from Academic, Industry, Leadership, and Research experiences and contribute to the team to the best of my abilities. You can reach out to me via email at sai.kuheli@gmail.com with any advisement, opportunities, collaboration, and/or concerns. Thank you. -->
 
 
