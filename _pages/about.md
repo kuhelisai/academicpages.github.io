@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-Welcome to my homepage! I am Kuheli Sai, a Computer and Data Science Researcher. I am pursuing a Ph.D. from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). 
+Welcome to my homepage! I am Kuheli Sai, a Computer and Data Science Researcher. I am pursuing a Ph.D. in Information Science from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). 
 
 My research interest includes:  
 1. Blockchain Security
