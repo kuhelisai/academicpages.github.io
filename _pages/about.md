@@ -27,7 +27,7 @@ Prior to joining the Ph.D. program at Pitt, I have earned my Engineering Master'
 I have been working and doing research on network traffic anomaly detection in the Scientific Computing Information Security Research Group at the United States Department of Energy (DoE) National Laboratory-Fermilab as 2020, and 2019 Computational Science Summer Research Intern.
 
 
-<p style="color:red;">This website is currently under construction. Till then you may consider visiting my Linkedin profile at <a href="https://www.linkedin.com/in/kuhelisai/"> for up-to-date information.
+<p style="color:red;">This website is currently under construction. Till then you may consider visiting my Linkedin profile at <a href="https://www.linkedin.com/in/kuhelisai/">https://www.linkedin.com/in/kuhelisai/</a> for up-to-date information.
 
 <!--I am open to research internship opportunities for the Summer of 2021 where I would like to apply my acquired knowledge gained so far from Academic, Industry, Leadership, and Research experiences and contribute to the team to the best of my abilities. You can reach out to me via email at sai.kuheli@gmail.com with any advisement, opportunities, collaboration, and/or concerns. Thank you. -->
 
