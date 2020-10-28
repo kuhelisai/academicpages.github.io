@@ -31,4 +31,10 @@ I have been working and doing research on network traffic anomaly detection in t
 
 <!--I am open to research internship opportunities for the Summer of 2021 where I would like to apply my acquired knowledge gained so far from Academic, Industry, Leadership, and Research experiences and contribute to the team to the best of my abilities. You can reach out to me via email at sai.kuheli@gmail.com with any advisement, opportunities, collaboration, and/or concerns. Thank you. -->
 
+Recent News:
+
+1. Recognized as one of the Best Reviewers (top 10%) from NeurIPS 2020 conference.
+1. Cyber Rising Star award nominee (top 3) from Women's Society of CyberJutsu.
+1. I will participate as a member in the faculty focus group at Google.
+
 
