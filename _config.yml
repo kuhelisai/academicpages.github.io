@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "Kuheli Sai"
   avatar           : "ksai.jpg"
-  bio              : "Computer and Data Science Researcher"
-  location         : "Pittsburgh"
+  bio              : "Data Science, and Security Researcher"
+  location         : "Pittsburgh, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QwKfawMAAAAJ&view_op=list_works&gmla=AJsN-F4_erTNgDFq2V1D1bcS_dRcA_QsztObV6Y9qoyYZ6mKVjuZbRPCP1eZnIDn-_oOLSPwLwxEXSGrKBivAepWzKp8BHCnT5eEL6xtMn26CAMp92tVzSI"
   email            : "kuheli.sai@pitt.edu"
   researchgate     : "https://www.researchgate.net/profile/Kuheli_Sai3"
   linkedin         : kuhelisai
-  github           : kuhelisai
+  github           : #kuhelisai
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : kuhelisai
+  facebook         : #kuhelisai
   foursquare       :
 
   google_plus      :
@@ -111,11 +111,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : kuhelisai
+  twitter          : #kuhelisai
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC8_SkIUrVVDGXg3il0fpENQ"
+  youtube          : #"https://www.youtube.com/channel/UC8_SkIUrVVDGXg3il0fpENQ"
   wikipedia        :
 
 
