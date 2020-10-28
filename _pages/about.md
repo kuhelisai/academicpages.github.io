@@ -12,14 +12,14 @@ redirect_from:
 
 
 
-Welcome to my homepage! My name is Kuheli Sai. Currently, I am pursuing a Ph.D. in Information Science from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). My research interest spans across the domain of security, and machine learning.
-
+Welcome to my homepage! My name is Kuheli Sai. Currently, I am pursuing a Ph.D. in Information Science from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). My research interest spans across the domain of security, network, and machine learning.
+<!--
 My research interest includes:  
 1. Blockchain Security
 1. IoT and Network Traffic Anomaly Detection
 1. Healthcare Data Security
 1. Critical Infrastructure Security
-1. Applied Machine Learning
+1. Applied Machine Learning -->
 
 Prior to joining the Ph.D. program at Pitt, I have earned my Engineering Master's Degree (M.Tech. in Information Technology) from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, Engineering Bachelor's Degree (B.Tech. in Computer Science & Engineering) from West Bengal University of Technology (WBUT), Kolkata and also did a Software Engineering job at Cognizant Technology Solutions (CTS) Corp.
 
