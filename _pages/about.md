@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kuheli Sai, Computer and Data Science Researcher"
+title: "Kuheli Sai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-Welcome to my homepage! I am Kuheli Sai, a Computer and Data Science Researcher. I am pursuing a Ph.D. in Information Science from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). 
+Welcome to my homepage! My name is Kuheli Sai. Currently, I am pursuing a Ph.D. in Information Science from the School of Computing and Information (SCI) at the University of Pittsburgh (Pitt). My research interest spans across the domain of security, and machine learning.
 
 My research interest includes:  
 1. Blockchain Security
